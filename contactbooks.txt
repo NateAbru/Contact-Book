@@ -1,0 +1,9 @@
+John|Doe
+Bill|Bob|1234567890|bob@mail.com|3232|23|apt|flushing|ny|121443
+Ray|Jacob|0987654321|Jacob@yahoo.com|3654|23|apt|flushing|ny|12142
+Kim|Lee|0987654321|kim@mail.com|12430|56|none|flushing|ny|09876
+Nick|Wells|2222222222|nick@yahoo.com|4323|21|apt|flushing|ny|434232
+endofbook|
+Edward|James
+Steve|Ron|1324567890|steve@mail.com|78-23|12|none|flushing|ny|87654
+endofbook|
